@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Booki",
+    "description": "Intégration de la page d'accueil responsive d'une agence de voyage avec HTML et CSS.",
+    "detail": "En intégrant la page d'accueil de l'agence de voyage Booki, j'ai utilisé HTML et CSS pour créer une interface fluide et responsive. Ce projet m'a permis de développer des compétences en design en respectant les maquettes Figma et en veillant à l'ergonomie sur tous les appareils.",
+    "imageUrl": "/img/projets/booki.webp",
+    "competences": ["Design responsive : S'adapter aux formats mobile, tablette, et desktop", "Intégration de maquettes : Suivre fidèlement les maquettes Figma fournies", "Structuration de code HTML/CSS : Créer une structure de fichier organisée et respectueuse des conventions de développement"],
+    "technologies": ["HTML", "CSS", "Figma"],
+    "projectUrl": "https://nyoussef.github.io/booki/",
+    "gitHubUrl": "https://github.com/nyoussef/booki"
+  },
+  {
+    "id": 2,
+    "title": "Ohmyfood",
+    "description": "Développement d'un site “mobile first” pour Ohmyfood, incluant animations CSS et intégration de menus de restaurants.",
+    "detail": "Pour le projet Ohmyfood, j'ai conçu un site mobile-first qui facilite l'accès aux menus de restaurants gastronomiques. J'ai approfondi mes compétences en Sass pour optimiser le CSS, et les animations CSS que j'ai intégrées ont enrichi l'expérience utilisateur, rendant la navigation plus engageante.",
+    "imageUrl": "/img/projets/ohmyfood.jpg",
+    "competences": ["Design mobile-first : Optimisation de l'interface en privilégiant les appareils mobiles", "Animations CSS : Création d'animations pour améliorer l'interaction utilisateur", "Utilisation de Sass : Structurer et maintenir un code CSS efficace et modulaire", "Gestion de version : Utilisation de Git et GitHub pour le suivi des modifications et la collaboration"],
+    "technologies": ["HTML", "Sass", "Figma", "Git", "GitHub"],
+    "projectUrl": "https://nyoussef.github.io/ohmyfood/",
+    "gitHubUrl": "https://github.com/nyoussef/ohmyfood"
+  },
+  {
+    "id": 3,
+    "title": "Sophie Bluel",
+    "description": "Portfolio interactif pour une architecte d'intérieur, intégrant JavaScript et une API pour une interface dynamique.",
+    "detail": "Le portfolio interactif de l'architecte d'intérieur Sophie Bluel a été développé en JavaScript pour offrir une expérience dynamique. J'ai mis en place des fonctionnalités de gestion des projets et une page de connexion, tout en intégrant une API pour permettre une mise à jour en temps réel des données.",
+    "imageUrl": "/img/projets/sophie-bluel.webp",
+    "competences": ["JavaScript : Gestion des événements et manipulation du DOM", "Interaction avec une API : Communication avec une API back-end pour rendre le site interactif", "Création de formulaires : Conception de la page de connexion et de la modale d'ajout", "Gestion de version : Utilisation de Git et GitHub pour organiser et suivre les changements de code"],
+    "technologies": ["HTML", "CSS", "JavaScript", "Figma", "Git", "GitHub"],
+    "projectUrl": "",
+    "gitHubUrl": "https://github.com/nyoussef/sophiebluel"
+  },
+  {
+    "id": 4,
+    "title": "Kasa",
+    "description": "Refonte du site Kasa en React pour créer une application moderne et réactive, avec gestion des composants et du routage.",
+    "detail": "Pour la refonte de l'application Kasa, j'ai créé une interface utilisateur moderne en React. Ce projet a impliqué l'intégration de composants modulaires et l'utilisation de React Router pour un routage intuitif, améliorant ainsi l'interaction des utilisateurs avec une galerie d'images interactive.",
+    "imageUrl": "/img/projets/kasa.jpg",
+    "competences": ["Développement d'interface utilisateur : Création de composants modulaires avec React", "Routage dynamique : Gestion des routes et des transitions avec React Router", "Gestion d'état et logique conditionnelle : Manipulation du DOM pour afficher/masquer des éléments"],
+    "technologies": ["React", "Sass", "Figma", "Git", "GitHub"],
+    "projectUrl": "",
+    "gitHubUrl": "https://github.com/nyoussef/kasa"
+  },
+  {
+    "id": 5,
+    "title": "ArgentBank",
+    "description": "Développement d'une application bancaire en React avec Redux pour une gestion avancée de l'état global et des interactions utilisateur.",
+    "detail": "Dans le développement de l'application bancaire ArgentBank, j'ai utilisé React et Redux pour gérer l'état global de l'application. En intégrant une API REST, j'ai conçu des fonctionnalités de gestion de profil tout en appliquant des pratiques de Green Code pour optimiser les performances et l'expérience utilisateur.",
+    "imageUrl": "/img/projets/argentbank.webp",
+    "competences": ["Intégration d’API REST : Connexion de l'interface avec le backend en utilisant des appels API", "Gestion d'état avancée avec Redux : Gestion de l'état global de l'application pour une expérience utilisateur fluide", "Optimisation et pratiques Green Code : Amélioration des performances avec des images optimisées et des composants modulaires"],
+    "technologies": ["React", "Redux", "CSS", "Git", "GitHub"],
+    "projectUrl": "",
+    "gitHubUrl": "https://github.com/nyoussef/Argent-Bank"
+  },
+  {
+    "id": 6,
+    "title": "Portfolio",
+    "description": "Développement d'un portfolio interactif avec Next.js, TypeScript et Tailwind CSS pour une présentation moderne et responsive.",
+    "detail": "Ce projet a consisté à créer un site web personnel mettant en valeur mes compétences et projets. J'ai utilisé Next.js pour le rendu côté serveur et la génération de pages statiques, TypeScript pour un typage robuste, et Tailwind CSS pour un design moderne et réactif. L'application est optimisée pour le SEO et entièrement responsive.",
+    "imageUrl": "/img/projets/portfolio.jpg",
+    "competences": ["Next.js : Framework pour le développement d'applications React", "TypeScript : Langage de programmation typé pour une meilleure maintenabilité", "Tailwind CSS : Framework CSS utilitaire pour un design moderne"],
+    "technologies": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "projectUrl": "",
+    "gitHubUrl": "https://github.com/nyoussef/portfolio"
+  }
+]
