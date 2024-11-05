@@ -57,13 +57,13 @@ const Presentation: React.FC = () => {
           <Link href="/projects" passHref>
             <Button
               label="Mes projets"
-              className="bg-blue-500 hover:bg-blue-600 text-white"
+              className="bg-blue-600 hover:bg-blue-700 text-white"
             />
           </Link>
           <Link href="/contact" passHref>
             <Button
               label="Contactez-moi"
-              className="bg-green-500 hover:bg-green-600 text-white"
+              className="bg-green-600 hover:bg-green-700 text-white"
             />
           </Link>
           <a
@@ -73,7 +73,7 @@ const Presentation: React.FC = () => {
           >
             <Button
               label="Voir mon CV"
-              className="bg-orange-400 hover:bg-orange-500 text-white"
+              className="bg-orange-500 hover:bg-orange-600 text-white"
             />
           </a>
         </div>
