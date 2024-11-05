@@ -66,6 +66,16 @@ const Presentation: React.FC = () => {
               className="bg-green-500 hover:bg-green-600 text-white"
             />
           </Link>
+          <a
+            href="/CV Youssef Nazeer.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Button
+              label="Voir mon CV"
+              className="bg-orange-400 hover:bg-orange-500 text-white"
+            />
+          </a>
         </div>
       </div>
     </section>

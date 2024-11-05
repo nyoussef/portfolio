@@ -8,11 +8,11 @@ interface IconWithTitleProps {
 }
 
 const IconWithTitle: React.FC<IconWithTitleProps> = ({ Icon, title, className }) => (
-  <div className={className}>
-    <div className="h-24 flex items-center justify-center">
+  <div className={`flex flex-col items-center justify-center ${className}`}>
+    <div className="h-24 mb-4 flex items-center justify-center bg-gray-800 text-white w-24 rounded-full">
       <Icon className="h-12 w-full" />
     </div>
-    <h4 className="flex justify-center items-center mb-4 text-lg">{title}</h4>
+    <h4 className="text-lg">{title}</h4>
   </div>
 );
 
